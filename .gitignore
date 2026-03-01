@@ -1,0 +1,24 @@
+# ── PlatformIO ───────────────────────────────────────────
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# ── VS Code (archivos de usuario, no de proyecto) ────────
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch
+
+# ── IDEs ─────────────────────────────────────────────────
+.idea/
+*.code-workspace
+
+# ── Sistema operativo ─────────────────────────────────────
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ── Credenciales / configuración local ───────────────────
+credentials.h
+secrets.h
+config_local.h
