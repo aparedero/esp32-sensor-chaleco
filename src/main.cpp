@@ -9,7 +9,7 @@
  *    Buzzer activo THDZ       GPIO14
  *
  *  Lógica de distancia:
- *    > 30 cm  → LED verde  + 1 pitido/segundo
+ *    > 30 cm  → LED verde  + silencio
  *    10-30 cm → LED amarillo + 2 pitidos/segundo
  *    < 10 cm  → LED rojo  + 5 pitidos/segundo
  *
